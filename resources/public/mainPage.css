@@ -1,0 +1,36 @@
+
+.logo {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 0;
+    background-color: black;
+    color: white;
+}
+.nav {
+    background-color: lightgrey;
+}
+.greeting {
+    position: absolute;
+    padding-top: 15px;
+    color: white;
+    left: 25%;
+}
+.nav-link {
+    color: black;
+    font-weight: bold;
+}
+.nav-link:hover {
+    font-weight: bolder;
+    color: black;
+    text-decoration: underline;
+
+}
+.nav-link:visited {
+    color: black;
+}
+img {
+    width: 100%;
+}
+table{
+    color: white;
+}
